@@ -1,0 +1,17 @@
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\bin\Debug\net8.0\EmergencyRoom.Service.deps.json
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\bin\Debug\net8.0\EmergencyRoom.Service.dll
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\bin\Debug\net8.0\EmergencyRoom.Service.pdb
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\bin\Debug\net8.0\EmergencyRoom.Core.dll
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\bin\Debug\net8.0\EmergencyRoom.Data.dll
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\bin\Debug\net8.0\EmergencyRoom.Core.pdb
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\bin\Debug\net8.0\EmergencyRoom.Data.pdb
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\obj\Debug\net8.0\EmergencyRoom.Service.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\obj\Debug\net8.0\EmergencyRoom.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\obj\Debug\net8.0\EmergencyRoom.Service.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\obj\Debug\net8.0\EmergencyRoom.Service.AssemblyInfo.cs
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\obj\Debug\net8.0\EmergencyRoom.Service.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\obj\Debug\net8.0\Emergenc.49AEEC4C.Up2Date
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\obj\Debug\net8.0\EmergencyRoom.Service.dll
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\obj\Debug\net8.0\refint\EmergencyRoom.Service.dll
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\obj\Debug\net8.0\EmergencyRoom.Service.pdb
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Service\obj\Debug\net8.0\ref\EmergencyRoom.Service.dll

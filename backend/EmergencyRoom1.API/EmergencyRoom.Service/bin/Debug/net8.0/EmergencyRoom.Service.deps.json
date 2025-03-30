@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmergencyRoom.Service/1.0.0": {
+        "dependencies": {
+          "EmergencyRoom.Core": "1.0.0",
+          "EmergencyRoom.Data": "1.0.0"
+        },
+        "runtime": {
+          "EmergencyRoom.Service.dll": {}
+        }
+      },
+      "EmergencyRoom.Core/1.0.0": {
+        "runtime": {
+          "EmergencyRoom.Core.dll": {}
+        }
+      },
+      "EmergencyRoom.Data/1.0.0": {
+        "dependencies": {
+          "EmergencyRoom.Core": "1.0.0"
+        },
+        "runtime": {
+          "EmergencyRoom.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmergencyRoom.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmergencyRoom.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmergencyRoom.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,1132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\service\\service\\patientscoreupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|solutionrelative:service\\service\\patientscoreupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\service\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|solutionrelative:service\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\service\\service\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|solutionrelative:service\\service\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\service\\service\\clientattributeservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|solutionrelative:service\\service\\clientattributeservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\repositories\\iclientattributerepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\repositories\\iclientattributerepository (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\models\\clientattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\models\\clientattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\models\\assignattributedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\models\\assignattributedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\controllers\\clientattributecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\controllers\\clientattributecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\models\\treatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\models\\treatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\service\\service\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|solutionrelative:service\\service\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\service\\service\\treatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|solutionrelative:service\\service\\treatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\service\\service\\queuemanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|solutionrelative:service\\service\\queuemanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\service\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|solutionrelative:service\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\data\\repositories\\usesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|solutionrelative:data\\repositories\\usesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\data\\repositories\\treatmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|solutionrelative:data\\repositories\\treatmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\data\\repositories\\queuemanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|solutionrelative:data\\repositories\\queuemanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\data\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|solutionrelative:data\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\data\\repositories\\patientfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|solutionrelative:data\\repositories\\patientfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\data\\repositories\\clientattributerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|solutionrelative:data\\repositories\\clientattributerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\service\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\service\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\service\\itreatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\service\\itreatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\service\\iqueuemanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\service\\iqueuemanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\service\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\service\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\service\\ipatientfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\service\\ipatientfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\service\\iclientattributeservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\service\\iclientattributeservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\repositories\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\repositories\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\repositories\\itreatmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\repositories\\itreatmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\repositories\\iqueuemanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\repositories\\iqueuemanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\repositories\\ipatientfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\repositories\\ipatientfilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\models\\patientfilequeuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\models\\patientfilequeuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\models\\patientfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\models\\patientfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\models\\patientfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\models\\patientfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\models\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\models\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\properties\\launchsettings (2).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\properties\\launchsettings (2).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\controllers\\patientfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\controllers\\patientfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\apiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\apiproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\service\\class1 (3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|solutionrelative:service\\class1 (3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\apiproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\apiproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\service\\service\\patientfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|solutionrelative:service\\service\\patientfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EE8CFC0-E5C5-4F85-88F0-7A67C20F877A}|service\\service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\core\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F75DBB-7A72-4B8C-B566-41414E8972AE}|core\\core.csproj|solutionrelative:core\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\apiproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B7B988-CFA2-4062-8F21-5D45815BDE67}|apiProject\\apiProject.csproj|solutionrelative:apiproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E8\u05E4\\EmergencyRoom1.API\\EmergencyRoom1.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\EmergencyRoom.Core\\Service\\IClientAttributeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmergencyRoom.Core\\Service\\IClientAttributeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\EmergencyRoom.Core\\Repositories\\IClientAttributeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmergencyRoom.Core\\Repositories\\IClientAttributeRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D1\u05EA\u05D9\u05D4\\EmergencyRoom1.API\\core\\Models\\Secretary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\ILoginHandlerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\LoginHandlerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\ILoginHandlerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\data\\migrations\\20250303202052_h3325.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|solutionrelative:data\\migrations\\20250303202052_h3325.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\data\\migrations\\20250303191921_g3325.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|solutionrelative:data\\migrations\\20250303191921_g3325.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05D0\u05D7\u05E8\u05D9 \u05D4\u05DE\u05D5\u05E8\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Program (3).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\data\\migrations\\20250306161147_j6325.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|solutionrelative:data\\migrations\\20250306161147_j6325.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\data\\migrations\\20250306152325_i6325.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|solutionrelative:data\\migrations\\20250306152325_i6325.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|c:\\users\\imoe001\\documents\\lllllll\\c#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD pdf\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\emergencyroom1.api\\data\\migrations\\20250307135605_k7325.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCE5D0D-C99A-41FD-8D89-672B5D6026DC}|data\\data.csproj|solutionrelative:data\\migrations\\20250307135605_k7325.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\DataContext.cs",
+              "RelativeDocumentMoniker": "data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\DataContext.cs",
+              "RelativeToolTip": "data\\DataContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:21:43.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Program.cs",
+              "RelativeDocumentMoniker": "apiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Program.cs",
+              "RelativeToolTip": "apiProject\\Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAswHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:24:30.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientAttributeService .cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\ClientAttributeService .cs",
+              "RelativeDocumentMoniker": "service\\Service\\ClientAttributeService .cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\ClientAttributeService .cs",
+              "RelativeToolTip": "service\\Service\\ClientAttributeService .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:02:50.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "service\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\EmailService.cs",
+              "RelativeToolTip": "service\\Service\\EmailService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:55:12.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\PdfService.cs",
+              "RelativeDocumentMoniker": "service\\Service\\PdfService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\PdfService.cs",
+              "RelativeToolTip": "service\\Service\\PdfService.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAwCUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:33:22.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientScoreUpdaterService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\PatientScoreUpdaterService.cs",
+              "RelativeDocumentMoniker": "service\\Service\\PatientScoreUpdaterService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\PatientScoreUpdaterService.cs",
+              "RelativeToolTip": "service\\Service\\PatientScoreUpdaterService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwC0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:57:23.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClientAttributeRepository (1).cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\IClientAttributeRepository (1).cs",
+              "RelativeDocumentMoniker": "core\\Repositories\\IClientAttributeRepository (1).cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\IClientAttributeRepository (1).cs",
+              "RelativeToolTip": "core\\Repositories\\IClientAttributeRepository (1).cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:52:34.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\ClientAttribute.cs",
+              "RelativeDocumentMoniker": "core\\Models\\ClientAttribute.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\ClientAttribute.cs",
+              "RelativeToolTip": "core\\Models\\ClientAttribute.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:49:48.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssignAttributeDto.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\AssignAttributeDto.cs",
+              "RelativeDocumentMoniker": "core\\Models\\AssignAttributeDto.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\AssignAttributeDto.cs",
+              "RelativeToolTip": "core\\Models\\AssignAttributeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:49:45.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "apiProject\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "apiProject\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:47:25.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "apiProject\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "apiProject\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAIAwwAIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:42:12.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientAttributeController.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\ClientAttributeController.cs",
+              "RelativeDocumentMoniker": "apiProject\\Controllers\\ClientAttributeController.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\ClientAttributeController.cs",
+              "RelativeToolTip": "apiProject\\Controllers\\ClientAttributeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:18:27.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "core\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\Users.cs",
+              "RelativeToolTip": "core\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:21:42.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "core\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\UserDto.cs",
+              "RelativeToolTip": "core\\Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:48:26.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TreatmentController.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\TreatmentController.cs",
+              "RelativeDocumentMoniker": "apiProject\\Controllers\\TreatmentController.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\TreatmentController.cs",
+              "RelativeToolTip": "apiProject\\Controllers\\TreatmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:59:46.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Treatment.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\Treatment.cs",
+              "RelativeDocumentMoniker": "core\\Models\\Treatment.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\Treatment.cs",
+              "RelativeToolTip": "core\\Models\\Treatment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:52:40.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "apiProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "apiProject\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:09:58.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\UsersService.cs",
+              "RelativeDocumentMoniker": "service\\Service\\UsersService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\UsersService.cs",
+              "RelativeToolTip": "service\\Service\\UsersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:25:38.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\PatientService.cs",
+              "RelativeDocumentMoniker": "service\\Service\\PatientService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\PatientService.cs",
+              "RelativeToolTip": "service\\Service\\PatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:52:37.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QueueManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\QueueManagerService.cs",
+              "RelativeDocumentMoniker": "service\\Service\\QueueManagerService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\QueueManagerService.cs",
+              "RelativeToolTip": "service\\Service\\QueueManagerService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAkwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:49:03.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TreatmentService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\TreatmentService.cs",
+              "RelativeDocumentMoniker": "service\\Service\\TreatmentService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\TreatmentService.cs",
+              "RelativeToolTip": "service\\Service\\TreatmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:02:31.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\UsesRepository.cs",
+              "RelativeDocumentMoniker": "data\\Repositories\\UsesRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\UsesRepository.cs",
+              "RelativeToolTip": "data\\Repositories\\UsesRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:18:35.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TreatmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\TreatmentRepository.cs",
+              "RelativeDocumentMoniker": "data\\Repositories\\TreatmentRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\TreatmentRepository.cs",
+              "RelativeToolTip": "data\\Repositories\\TreatmentRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:57:21.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QueueManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\QueueManagerRepository.cs",
+              "RelativeDocumentMoniker": "data\\Repositories\\QueueManagerRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\QueueManagerRepository.cs",
+              "RelativeToolTip": "data\\Repositories\\QueueManagerRepository.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAwIoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T22:54:09.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "data\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "data\\Repositories\\PatientRepository.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAuwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:28:06.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PatientFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\PatientFileRepository.cs",
+              "RelativeDocumentMoniker": "data\\Repositories\\PatientFileRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\PatientFileRepository.cs",
+              "RelativeToolTip": "data\\Repositories\\PatientFileRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAuwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:23:27.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClientAttributeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\ClientAttributeRepository.cs",
+              "RelativeDocumentMoniker": "data\\Repositories\\ClientAttributeRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\ClientAttributeRepository.cs",
+              "RelativeToolTip": "data\\Repositories\\ClientAttributeRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T22:54:30.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\IUsersService.cs",
+              "RelativeDocumentMoniker": "core\\Service\\IUsersService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\IUsersService.cs",
+              "RelativeToolTip": "core\\Service\\IUsersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:47:36.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITreatmentService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\ITreatmentService.cs",
+              "RelativeDocumentMoniker": "core\\Service\\ITreatmentService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\ITreatmentService.cs",
+              "RelativeToolTip": "core\\Service\\ITreatmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:00:45.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IQueueManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\IQueueManagerService.cs",
+              "RelativeDocumentMoniker": "core\\Service\\IQueueManagerService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\IQueueManagerService.cs",
+              "RelativeToolTip": "core\\Service\\IQueueManagerService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:02:41.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\IPatientService.cs",
+              "RelativeDocumentMoniker": "core\\Service\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\IPatientService.cs",
+              "RelativeToolTip": "core\\Service\\IPatientService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:47:51.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IPatientFileService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\IPatientFileService.cs",
+              "RelativeDocumentMoniker": "core\\Service\\IPatientFileService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\IPatientFileService.cs",
+              "RelativeToolTip": "core\\Service\\IPatientFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:20:39.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IClientAttributeService .cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\IClientAttributeService .cs",
+              "RelativeDocumentMoniker": "core\\Service\\IClientAttributeService .cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\IClientAttributeService .cs",
+              "RelativeToolTip": "core\\Service\\IClientAttributeService .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:47:34.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "core\\Repositories\\IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\IUsersRepository.cs",
+              "RelativeToolTip": "core\\Repositories\\IUsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:47:17.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ITreatmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\ITreatmentRepository.cs",
+              "RelativeDocumentMoniker": "core\\Repositories\\ITreatmentRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\ITreatmentRepository.cs",
+              "RelativeToolTip": "core\\Repositories\\ITreatmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:01:55.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IQueueManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\IQueueManagerRepository.cs",
+              "RelativeDocumentMoniker": "core\\Repositories\\IQueueManagerRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\IQueueManagerRepository.cs",
+              "RelativeToolTip": "core\\Repositories\\IQueueManagerRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:50:48.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "core\\Repositories\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\IPatientRepository.cs",
+              "RelativeToolTip": "core\\Repositories\\IPatientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:58:54.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IPatientFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\IPatientFileRepository.cs",
+              "RelativeDocumentMoniker": "core\\Repositories\\IPatientFileRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\IPatientFileRepository.cs",
+              "RelativeToolTip": "core\\Repositories\\IPatientFileRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:17:50.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PatientFileQueueDto.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\PatientFileQueueDto.cs",
+              "RelativeDocumentMoniker": "core\\Models\\PatientFileQueueDto.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\PatientFileQueueDto.cs",
+              "RelativeToolTip": "core\\Models\\PatientFileQueueDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:57:38.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PatientFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\PatientFileDto.cs",
+              "RelativeDocumentMoniker": "core\\Models\\PatientFileDto.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\PatientFileDto.cs",
+              "RelativeToolTip": "core\\Models\\PatientFileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T22:00:10.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PatientFile.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\PatientFile.cs",
+              "RelativeDocumentMoniker": "core\\Models\\PatientFile.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\PatientFile.cs",
+              "RelativeToolTip": "core\\Models\\PatientFile.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwC0AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T20:01:15.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\PatientDto.cs",
+              "RelativeDocumentMoniker": "core\\Models\\PatientDto.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\PatientDto.cs",
+              "RelativeToolTip": "core\\Models\\PatientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:54:26.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PatientFileController.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\PatientFileController.cs",
+              "RelativeDocumentMoniker": "apiProject\\Controllers\\PatientFileController.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\PatientFileController.cs",
+              "RelativeToolTip": "apiProject\\Controllers\\PatientFileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:37:34.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "launchSettings (2).json",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Properties\\launchSettings (2).json",
+              "RelativeDocumentMoniker": "apiProject\\Properties\\launchSettings (2).json",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Properties\\launchSettings (2).json",
+              "RelativeToolTip": "apiProject\\Properties\\launchSettings (2).json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T00:10:06.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "apiProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\appsettings.json",
+              "RelativeToolTip": "apiProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T20:24:14.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "QueueController.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\QueueController.cs",
+              "RelativeDocumentMoniker": "apiProject\\Controllers\\QueueController.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\QueueController.cs",
+              "RelativeToolTip": "apiProject\\Controllers\\QueueController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:47:50.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "apiProject\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "apiProject\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:41:51.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "core\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\Patient.cs",
+              "RelativeToolTip": "core\\Models\\Patient.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:44:46.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "apiProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "apiProject\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T00:09:57.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250307135605_K7325.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Migrations\\20250307135605_K7325.cs",
+              "RelativeDocumentMoniker": "data\\Migrations\\20250307135605_K7325.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Migrations\\20250307135605_K7325.cs",
+              "RelativeToolTip": "data\\Migrations\\20250307135605_K7325.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:56:06.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAFcTAAAAAAAAAADwv2YTAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-07T14:36:43.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "apiProject.csproj",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\apiProject.csproj",
+              "RelativeDocumentMoniker": "apiProject\\apiProject.csproj",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\apiProject.csproj",
+              "RelativeToolTip": "apiProject\\apiProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T23:13:02.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250306161147_J6325.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Migrations\\20250306161147_J6325.cs",
+              "RelativeDocumentMoniker": "data\\Migrations\\20250306161147_J6325.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Migrations\\20250306161147_J6325.cs",
+              "RelativeToolTip": "data\\Migrations\\20250306161147_J6325.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:11:47.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250306152325_I6325.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Migrations\\20250306152325_I6325.cs",
+              "RelativeDocumentMoniker": "data\\Migrations\\20250306152325_I6325.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Migrations\\20250306152325_I6325.cs",
+              "RelativeToolTip": "data\\Migrations\\20250306152325_I6325.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:23:25.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Class1 (3).cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Class1 (3).cs",
+              "RelativeDocumentMoniker": "service\\Class1 (3).cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Class1 (3).cs",
+              "RelativeToolTip": "service\\Class1 (3).cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:40:21.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250303202052_H3325.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Migrations\\20250303202052_H3325.cs",
+              "RelativeDocumentMoniker": "data\\Migrations\\20250303202052_H3325.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Migrations\\20250303202052_H3325.cs",
+              "RelativeToolTip": "data\\Migrations\\20250303202052_H3325.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:20:52.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250303191921_G3325.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Migrations\\20250303191921_G3325.cs",
+              "RelativeDocumentMoniker": "data\\Migrations\\20250303191921_G3325.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Migrations\\20250303191921_G3325.cs",
+              "RelativeToolTip": "data\\Migrations\\20250303191921_G3325.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:19:22.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Program (3).cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05D0\u05D7\u05E8\u05D9 \u05D4\u05DE\u05D5\u05E8\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Program (3).cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u05D0\u05D7\u05E8\u05D9 \u05D4\u05DE\u05D5\u05E8\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Program (3).cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05D0\u05D7\u05E8\u05D9 \u05D4\u05DE\u05D5\u05E8\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Program (3).cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u05D0\u05D7\u05E8\u05D9 \u05D4\u05DE\u05D5\u05E8\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\Program (3).cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAAKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:46:38.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "apiProject",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\apiProject.csproj",
+              "RelativeDocumentMoniker": "apiProject\\apiProject.csproj",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\apiProject.csproj",
+              "RelativeToolTip": "apiProject\\apiProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T00:10:05.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PatientFileService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\PatientFileService.cs",
+              "RelativeDocumentMoniker": "service\\Service\\PatientFileService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\Service\\PatientFileService.cs",
+              "RelativeToolTip": "service\\Service\\PatientFileService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T19:10:54.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "service.csproj",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\service.csproj",
+              "RelativeDocumentMoniker": "service\\service.csproj",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\service\\service.csproj",
+              "RelativeToolTip": "service\\service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T20:49:53.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "core\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Models\\UserRole.cs",
+              "RelativeToolTip": "core\\Models\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:04:48.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Secretary.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D1\u05EA\u05D9\u05D4\\EmergencyRoom1.API\\core\\Models\\Secretary.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u05DE\u05D1\u05EA\u05D9\u05D4\\EmergencyRoom1.API\\core\\Models\\Secretary.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D1\u05EA\u05D9\u05D4\\EmergencyRoom1.API\\core\\Models\\Secretary.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u05DE\u05D1\u05EA\u05D9\u05D4\\EmergencyRoom1.API\\core\\Models\\Secretary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:49:19.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ILoginHandlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\ILoginHandlerRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\ILoginHandlerRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\ILoginHandlerRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Repositories\\ILoginHandlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:16:56.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LoginHandlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\LoginHandlerRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\LoginHandlerRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\LoginHandlerRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\data\\Repositories\\LoginHandlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:21:41.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ILoginHandlerService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\ILoginHandlerService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\ILoginHandlerService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\ILoginHandlerService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u05DE\u05D1\u05EA\u05D9\u05D4\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\core\\Service\\ILoginHandlerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:19:42.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "apiProject\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\apiProject\\WeatherForecast.cs",
+              "RelativeToolTip": "apiProject\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:24:42.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IClientAttributeService.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\EmergencyRoom.Core\\Service\\IClientAttributeService.cs",
+              "RelativeDocumentMoniker": "EmergencyRoom.Core\\Service\\IClientAttributeService.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\EmergencyRoom.Core\\Service\\IClientAttributeService.cs",
+              "RelativeToolTip": "EmergencyRoom.Core\\Service\\IClientAttributeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:29:49.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E8\u05E4\\EmergencyRoom1.API\\EmergencyRoom1.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E8\u05E4\\EmergencyRoom1.API\\EmergencyRoom1.API\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E8\u05E4\\EmergencyRoom1.API\\EmergencyRoom1.API\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\1\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05E9\u05D0\u05E8\u05E4\\EmergencyRoom1.API\\EmergencyRoom1.API\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:34:42.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IClientAttributeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\EmergencyRoom.Core\\Repositories\\IClientAttributeRepository.cs",
+              "RelativeDocumentMoniker": "EmergencyRoom.Core\\Repositories\\IClientAttributeRepository.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Documents\\lllllll\\C#\\\u05DE\u05D9\u05D9\u05DC \u05E2\u05DD PDF\\\u05E0\u05E1\u05D9\u05D5\u05DF jwt  2\\\u05E0\u05D9\u05E1\u05D9\u05D5\u05DF \u05DC\u05EA\u05E7\u05DF users\\EmergencyRoom1.API\\EmergencyRoom.Core\\Repositories\\IClientAttributeRepository.cs",
+              "RelativeToolTip": "EmergencyRoom.Core\\Repositories\\IClientAttributeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:15:49.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

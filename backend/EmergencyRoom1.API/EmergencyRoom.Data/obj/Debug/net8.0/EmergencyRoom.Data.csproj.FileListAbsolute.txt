@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\bin\Debug\net8.0\EmergencyRoom.Data.deps.json
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\bin\Debug\net8.0\EmergencyRoom.Data.dll
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\bin\Debug\net8.0\EmergencyRoom.Data.pdb
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\bin\Debug\net8.0\EmergencyRoom.Core.dll
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\bin\Debug\net8.0\EmergencyRoom.Core.pdb
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\obj\Debug\net8.0\EmergencyRoom.Data.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\obj\Debug\net8.0\EmergencyRoom.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\obj\Debug\net8.0\EmergencyRoom.Data.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\obj\Debug\net8.0\EmergencyRoom.Data.AssemblyInfo.cs
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\obj\Debug\net8.0\EmergencyRoom.Data.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\obj\Debug\net8.0\Emergenc.248B8445.Up2Date
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\obj\Debug\net8.0\EmergencyRoom.Data.dll
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\obj\Debug\net8.0\refint\EmergencyRoom.Data.dll
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\obj\Debug\net8.0\EmergencyRoom.Data.pdb
+C:\Users\1\Desktop\פרויקט סישארפ\EmergencyRoom1.API\EmergencyRoom.Data\obj\Debug\net8.0\ref\EmergencyRoom.Data.dll
