@@ -1,0 +1,142 @@
+/* עיצוב הקונטיינר הראשי */
+.login-container {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  position: relative;
+  width: 100%;
+  max-width: 320px;
+  margin: 0 auto;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* הסרת עיצוב מיותר מהכרטיס */
+.login-card {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  padding: 0;
+  text-align: center;
+}
+
+.login-card h1 {
+  margin-bottom: 20px;
+  color: rgb(54, 53, 53);
+  font-size: 22px;
+  font-weight: 600;
+}
+
+/* שדות קלט */
+mat-form-field {
+  width: 100%;
+  margin-bottom: 14px;
+}
+
+mat-form-field input {
+  font-size: 16px;
+}
+
+/* עיצוב כפתורים */
+button {
+  width: 100%;
+  padding: 12px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 6px;
+}
+
+button[color="primary"] {
+  background-color: #1565c0;
+  color: white;
+}
+
+button[color="primary"]:hover {
+  background-color: #0d47a1;
+}
+
+button[color="accent"] {
+  background-color: #42a5f5;
+  color: white;
+}
+
+button[color="accent"]:hover {
+  background-color: #1e88e5;
+}
+
+/* כפתור סגירה */
+.close-button {
+  background: none;
+  border: none;
+  color: #555;
+  font-size: 18px;
+  cursor: pointer;
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  width: auto;
+  padding: 0;
+}
+
+.close-button:hover {
+  color: #000;
+}
+
+/* הודעות שגיאה */
+.error-message {
+  color: #d32f2f;
+  font-weight: bold;
+  font-size: 12px;
+  margin-top: 8px;
+}
+
+/* עיצוב קישורים */
+.link-button {
+  color: #1565c0;
+  font-weight: bold;
+  font-size: 14px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.link-button:hover {
+  text-decoration: underline;
+}
+
+/* התאמות רספונסיביות */
+@media (max-width: 400px) {
+  .login-container {
+    max-width: 90%;
+  }
+}
+
+/* קוד לטיפול בבעיית הדיאלוג - תיקון של הרקע השקוף */
+:host {
+  display: block;
+}
+
+:host-context(.mat-mdc-dialog-container) .login-container {
+  /* הגדרות מיוחדות כאשר הקומפוננטה מופעלת כדיאלוג */
+  margin: 0;
+}
+
+/* עיצוב לסנאקבאר */
+.success-snackbar {
+  background-color: #4caf50 !important;
+  color: white !important;
+}
+
+.error-snackbar {
+  background-color: #f44336 !important;
+  color: white !important;
+}

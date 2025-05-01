@@ -1,0 +1,127 @@
+.er-queue-container {
+    max-width: 1000px;
+    margin: 20px auto;
+    background-color: #f4f7fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+}
+
+/* עיצוב כותרת הדיאלוג */
+.dialog-header {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 15px;
+}
+
+.close-button {
+    color: #dc3545;
+    transition: transform 0.2s ease;
+}
+
+.close-button:hover {
+    transform: scale(1.1);
+    background-color: #f8d7da;
+    border-radius: 50%;
+}
+
+/* כותרת הטבלה */
+h2 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+    border-bottom: 3px solid rgba(0, 47, 108, 0.3);;
+    padding-bottom: 10px;
+}
+h3{
+    text-align: center;
+   
+}
+
+/* טבלה */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* כותרות עמודות */
+thead {
+    background-color:#005cd4;
+    color: white;
+}
+
+th {
+    padding: 15px;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.9em;
+    border-bottom: 2px solid #2980b9;
+}
+
+/* שורות בטבלה */
+tbody tr {
+    transition: background-color 0.3s ease;
+    text-align: center;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tbody tr:hover {
+    background-color: #e6f2ff;
+}
+
+td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #e0e0e0;
+    color: #34495e;
+    text-align: center;
+}
+
+/* דירוג דחיפות */
+td:last-child {
+    font-weight: bold;
+    text-align: center;
+    background: linear-gradient(to right, 
+        rgba(46, 204, 113, 0.2) 0%, 
+        rgba(241, 196, 15, 0.2) 50%, 
+        rgba(231, 76, 60, 0.2) 100%
+    );
+}
+
+/* עיצוב רספונסיבי */
+@media screen and (max-width: 768px) {
+    .er-queue-container {
+        padding: 10px;
+        margin: 0 5px;
+    }
+
+    table {
+        font-size: 0.9em;
+    }
+
+    th, td {
+        padding: 10px;
+    }
+}
+
+/* התאמה להדפסה */
+@media print {
+    .dialog-header {
+        display: none;
+    }
+
+    table {
+        box-shadow: none;
+        border: 1px solid #ccc;
+    }
+}

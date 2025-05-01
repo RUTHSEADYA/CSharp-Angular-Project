@@ -1,0 +1,53 @@
+<div class="main-container">
+
+  <div class="add-patient-container">
+    <div class="attributes-buttons">
+      <button class="attribute-btn" (click)="openPopup()">
+        Add an attribute
+      </button>
+      <button class="attribute-btn" (click)="openAttributesPopup()"> View Attributes </button>
+    </div>
+  </div>
+</div>
+@if (showPopup) {
+
+<div class="popup-overlay">
+  <div class="popup">
+    <h2>adding attribute</h2>
+    <form [formGroup]="addAttributeForm" (submit)="addPatientAttribute()">
+      <label for="attributeName"> attribute name:</label>
+      <input id="attributeName" type="text" formControlName="attributeName">
+
+      <label for="score"> score:</label>
+      <input id="score" type="number" formControlName="score">
+
+      <div class="button-group">
+        <button type="submit" class="btn-primary"> add attribute</button>
+
+        <button type="button" class="btn-secondary" (click)="closePopup()">❌ close</button>
+      </div>
+    </form>
+  </div>
+</div>
+}
+
+@if (showAttributesPopup) {
+<div class="popup-overlay">
+  <div class="popup">
+    <button class="close-btn" (click)="closeAttributesPopup()">❌</button>
+    <h2> Attribute List</h2>
+
+    @if (attributes.length > 0) {
+    <ul>
+      @for (attribute of attributes; track attribute) {
+      <li>{{ attribute.attributeName }} - {{ attribute.score }}</li>
+      <button type="button" class="delete-btn" (click)="confirmDelete(attribute.id)">🗑️</button>
+
+      }
+    </ul>
+    } @else {
+    <p>❌ Attributes Not Found .</p>
+    }
+  </div>
+</div>
+}

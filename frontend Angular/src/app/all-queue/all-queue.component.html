@@ -1,0 +1,32 @@
+<div class="dialog-header">
+    <button mat-icon-button class="close-button" (click)="closeDialog()">
+      <mat-icon>close</mat-icon>
+    </button>
+  </div>
+<h2> The whole patients in the queue now </h2>
+<h3>Estimated wait time: {{ avgWaiting}}</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th> ID number</th>
+      <th> Name</th>
+      <th> Description</th>
+      <th> Entry Time</th>
+      <th> Urgency score</th>
+    </tr>
+  </thead>
+  <tbody>
+    @for (patient of patients; track patient.patient.patientIdentity) {
+      <tr>
+        <td>{{ patient.patient.patientIdentity }}</td>
+        <td>{{ patient.patient.name }}</td>
+        <td>{{ patient.descreption }}</td>
+        <td>{{ patient.entryTime|date: 'dd/MM/yyyy HH:mm:ss'  }}</td>
+        <td>{{ patient.finalScore }}</td>
+      </tr>
+    }
+  </tbody>
+</table>
+
+

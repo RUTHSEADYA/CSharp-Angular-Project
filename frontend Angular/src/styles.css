@@ -1,0 +1,131 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+/* עיצוב גלובלי לקונטיינר הראשי שיהיה אחיד לכל הקומפוננטות */
+.main-container {
+    margin-top: 30px; /* מרחק אחיד מה-navbar */
+    padding: 0 20px;
+  }
+  
+  /* עיצוב אחיד לכל קבוצות הכפתורים */
+  .patient-buttons,
+  .queue-buttons,
+  .attributes-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px; /* מרחק קבוע מה-navbar */
+    margin-bottom: 20px;
+  }
+  
+  /* סגנון כפתורים - שימור העיצוב הקיים */
+  .patient-btn {
+    background-color: #002f6c;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 14px 28px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .add-queue-btn {
+    background-color: #002f6c;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 14px 28px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .attribute-btn {
+    background-color: #006c2d;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 14px 28px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  /* אנימציות hover */
+  .patient-btn:hover {
+    background-color: #002f6c;
+    transform: scale(1.08);
+  }
+  
+  .add-queue-btn:hover {
+    background-color: #001f4d;
+    transform: scale(1.08);
+  }
+  
+  .attribute-btn:hover {
+    background-color: #006c2d;
+    transform: scale(1.08);
+  }
+  
+  /* עיצוב כפתור של הצגת תכונות (כדי לוודא שהוא תואם) */
+  .show-attributes-btn {
+    background-color: #007bff;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    padding: 14px 28px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    margin: 0;
+    height: auto;
+  }
+  
+  .show-attributes-btn:hover {
+    background-color: #0056b3;
+    transform: scale(1.08);
+  }
+  
+  /* עיצוב עקבי לפופאפים */
+  .popup-overlay,
+  .popup-overlay-search,
+  .dialog-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 47, 108, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(5px);
+    z-index: 100;
+  }
+  
+  /* Media queries */
+  @media (max-width: 768px) {
+    .patient-buttons,
+    .queue-buttons,
+    .attributes-buttons {
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .patient-btn,
+    .add-queue-btn,
+    .attribute-btn,
+    .show-attributes-btn {
+      width: 100%;
+    }
+  }

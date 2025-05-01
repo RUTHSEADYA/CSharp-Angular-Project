@@ -1,0 +1,43 @@
+
+ <nav class="navbar">
+  <img src="assets/logo.png" alt="Logo" class="logo">
+  
+  <div class="nav-container">
+    @if (isLoggedIn()) {
+      <div class="nav-tabs">
+        <div class="nav-tab" [class.active]="isActiveRoute('/patient')" (click)="navigateToPatients()">
+          <div class="tab-icon patients-icon"></div>
+          <span>PATIENTS</span>
+        </div>
+    
+        @if (userRole === 1) {
+          <div class="nav-tab" [class.active]="isActiveRoute('/patient-attribute')" (click)="navigateToPatientAttribute()">
+            <div class="tab-icon attributes-icon"></div>
+            <span>ATTRIBUTES</span>
+          </div>
+        }
+    
+        <div class="nav-tab" [class.active]="isActiveRoute('/queue')" (click)="navigateToQueue()">
+          <div class="tab-icon queue-icon"></div>
+          <span>QUEUE</span>
+        </div>
+    
+        <div class="nav-tab logout-tab" (click)="logout()">
+          <div class="tab-icon logout-icon"></div>
+          <span>LOGOUT</span>
+        </div>
+      </div>
+    }
+    
+    
+    
+    @if (!isLoggedIn()) {
+      <div class="login-container">
+        <button class="login-button" (click)="openAuthDialog()">
+          <div class="login-icon"></div>
+          <span>LOGIN / REGISTER</span>
+        </button>
+      </div>
+    }
+  </div>
+</nav>

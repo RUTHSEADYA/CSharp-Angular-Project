@@ -1,0 +1,210 @@
+/*body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f9fa;
+    margin: 0; /* ביטול המרווח העליון */
+    /*padding-top: 20px; /* הוספת רווח קטן למעלה */
+    /*h2 {
+        text-align: center;
+        color: #333;
+        margin-bottom: 0px; /* מבטל כמעט לחלוטין את הרווח בין הכותרת לטבלה */
+       /* padding-bottom: 5px;
+        border-bottom: 3px solid #007BFF;
+        display: inline-block;
+    }
+    
+    table {
+        margin-top: 15px; /* מבטל כל מרווח נוסף מלמעלה */
+       /* width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        border-collapse: collapse;
+        background: #fff;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        border-radius: 10px;
+        overflow: hidden;
+    }
+    
+th, td {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+th {
+    background-color: #007BFF;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tbody tr:hover {
+    background-color: #ddeaf7;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+td {
+    font-size: 15px;
+}
+
+@media (max-width: 768px) {
+    table {
+        width: 100%;
+    }
+    th, td {
+        padding: 10px;
+        font-size: 14px;
+    }
+}
+
+.dialog-header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+  }
+  
+  .close-button {
+    color: #ff4d4d; /* צבע אדום אלגנטי */
+    /*font-size: 24px;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .close-button:hover {
+    transform: scale(1.2); /* אפקט הגדלה בעת מעבר עכבר */
+    /*color: #d32f2f;
+  }
+  
+  */
+
+  .er-queue-container {
+    max-width: 1000px;
+    margin: 20px auto;
+    background-color: #f4f7fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+}
+
+/* עיצוב כותרת הדיאלוג */
+.dialog-header {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 15px;
+}
+
+.close-button {
+    color: #dc3545;
+    transition: transform 0.2s ease;
+}
+
+.close-button:hover {
+    transform: scale(1.1);
+    background-color: #f8d7da;
+    border-radius: 50%;
+}
+
+/* כותרת הטבלה */
+h2 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 10px;
+}
+
+h3{
+    text-align: center;
+}
+
+/* טבלה */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* כותרות עמודות */
+thead {
+    background-color: #3498db;
+    color: white;
+}
+
+th {
+    padding: 15px;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.9em;
+    border-bottom: 2px solid #2980b9;
+}
+
+/* שורות בטבלה */
+tbody tr {
+    transition: background-color 0.3s ease;
+    text-align: center;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tbody tr:hover {
+    background-color: #e6f2ff;
+}
+
+td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #e0e0e0;
+    color: #34495e;
+    text-align: center;
+}
+
+/* דירוג דחיפות */
+td:last-child {
+    font-weight: bold;
+    text-align: center;
+    background: linear-gradient(to right, 
+        rgba(46, 204, 113, 0.2) 0%, 
+        rgba(241, 196, 15, 0.2) 50%, 
+        rgba(231, 76, 60, 0.2) 100%
+    );
+}
+
+/* עיצוב רספונסיבי */
+@media screen and (max-width: 768px) {
+    .er-queue-container {
+        padding: 10px;
+        margin: 0 5px;
+    }
+
+    table {
+        font-size: 0.9em;
+    }
+
+    th, td {
+        padding: 10px;
+    }
+}
+
+/* התאמה להדפסה */
+@media print {
+    .dialog-header {
+        display: none;
+    }
+
+    table {
+        box-shadow: none;
+        border: 1px solid #ccc;
+    }
+}

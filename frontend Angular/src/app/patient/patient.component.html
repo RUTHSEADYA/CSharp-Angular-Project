@@ -1,0 +1,405 @@
+
+
+     @if(showButtons){
+      <div class="main-container">
+
+      <div class="patient-buttons">
+        @if (isLoggedIn()) {
+        <button class="patient-btn" (click)="openPopup()" [hidden]="!(isAdmin || isSecretary)">
+          Add Patient
+        </button>
+           
+        <form [formGroup]="searchForm" (submit)="openSearchPopup()">
+          <button type="submit" class="patient-btn"> Search</button>
+        </form>
+      }
+      </div>
+      </div>
+      }   
+      
+      @if (showPopup) {
+        <div class="popup-overlay">
+          <div class="popup">
+            <h2> Add a patient</h2>
+            <form [formGroup]="addPatientForm" (submit)="addPatient()">
+              <label for="patientIdentity"> ID number: </label>
+              <input id="patientIdentity" type="text" formControlName="patientIdentity">
+              @if (patientIdentity?.invalid && (patientIdentity?.dirty || patientIdentity?.touched)) {
+                <div class="error-message">
+                  @if (patientIdentity?.errors?.['required']) {
+                    <span>ID number is required</span>
+                  }
+                  @if (patientIdentity?.errors?.['pattern']) {
+                    <span>ID must be 9 digits</span>
+                  }
+                  @if (patientIdentity?.errors?.['invalidIsraeliId']) {
+                    <span>Invalid Israeli ID</span>
+                  }
+                </div>
+              }
+      
+              <label for="name"> Name:</label>
+              <input id="name" type="text" formControlName="name">
+              @if (name?.invalid && (name?.dirty || name?.touched)) {
+                <div class="error-message">
+                  @if (name?.errors?.['required']) {
+                    <span>Name is required</span>
+                  }
+                  @if (name?.errors?.['minlength']) {
+                    <span>Name must be at least 2 characters</span>
+                  }
+                  @if (name?.errors?.['maxlength']) {
+                    <span>Name cannot exceed 50 characters</span>
+                  }
+                  @if (name?.errors?.['pattern']) {
+                    <span>Name can only contain letters (English or Hebrew) and spaces</span>
+                  }
+                </div>
+              }
+              
+              <label for="dateOfBirth"> Date Of Birth:</label>
+              <input id="dateOfBirth" type="date" formControlName="dateOfBirth">
+              @if (dateOfBirth?.invalid && (dateOfBirth?.dirty || dateOfBirth?.touched)) {
+                <div class="error-message">
+                  @if (dateOfBirth?.errors?.['required']) {
+                    <span>Date of birth is required</span>
+                  }
+                  @if (dateOfBirth?.errors?.['futureDate']) {
+                    <span>Date of birth cannot be in the future</span>
+                  }
+                  @if (dateOfBirth?.errors?.['tooOld']) {
+                    <span>Patient age exceeds 120 years</span>
+                  }
+                </div>
+              }
+      
+              <label for="gender"> Gender:</label>
+              <select id="gender" formControlName="gender">
+                <option value="זכר">Male</option>
+                <option value="נקבה">Female</option>
+              </select>
+              @if (gender?.invalid && (gender?.dirty || gender?.touched)) {
+                <div class="error-message">
+                  @if (gender?.errors?.['required']) {
+                    <span>Gender is required</span>
+                  }
+                </div>
+              }
+      
+              <label for="address"> Address:</label>
+              <input id="address" type="text" formControlName="address">
+              @if (address?.invalid && (address?.dirty || address?.touched)) {
+                <div class="error-message">
+                  @if (address?.errors?.['required']) {
+                    <span>Address is required</span>
+                  }
+                  @if (address?.errors?.['minlength']) {
+                    <span>Address must be at least 5 characters</span>
+                  }
+                  @if (address?.errors?.['maxlength']) {
+                    <span>Address cannot exceed 100 characters</span>
+                  }
+                </div>
+              }
+      
+              <label for="phone"> Phone:</label>
+              <input id="phone" type="text" formControlName="phone">
+              @if (phone?.invalid && (phone?.dirty || phone?.touched)) {
+                <div class="error-message">
+                  @if (phone?.errors?.['required']) {
+                    <span>Phone number is required</span>
+                  }
+                  @if (phone?.errors?.['pattern']) {
+                    <span>Phone must be 10 digits starting with 05</span>
+                  }
+                </div>
+              }
+      
+              <label for="email"> Email:</label>
+              <input id="email" type="email" formControlName="email">
+              @if (email?.invalid && (email?.dirty || email?.touched)) {
+                <div class="error-message">
+                  @if (email?.errors?.['required']) {
+                    <span>Email is required</span>
+                  }
+                  @if (email?.errors?.['email'] || email?.errors?.['pattern']) {
+                    <span>Please enter a valid email address</span>
+                  }
+                </div>
+              }
+              
+              <div class="button-group">
+                <button type="submit" class="btn-primary"> Add Patient</button>
+                <button type="button" class="btn-secondary" (click)="closePopup()">❌ Close</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      }
+      
+      
+      @if (showSecondPopup) {
+        <div class="popup-overlay">
+          <div class="popup">
+            
+            <h2> Add a form</h2>   
+            <form [formGroup]="patientForm" (submit)="addPatientFile()" >
+              <label for="descreption"> Description:</label>
+              <input id="descreption" type="text" formControlName="descreption">
+              @if (patientForm.get('descreption')?.invalid && (patientForm.get('descreption')?.dirty || patientForm.get('descreption')?.touched)) {
+                <div class="error-message">
+                  @if (patientForm.get('descreption')?.errors?.['required']) {
+                    <span>Description is required</span>
+                  }
+                  @if (patientForm.get('descreption')?.errors?.['minlength']) {
+                    <span>Description must be at least 3 characters</span>
+                  }
+                  @if (patientForm.get('descreption')?.errors?.['maxlength']) {
+                    <span>Description cannot exceed 200 characters</span>
+                  }
+                </div>
+              }
+      
+              <label for="status"> Status:</label>
+              <select id="status" formControlName="status">
+                <option value="Waiting">Waiting</option>
+                <option value="In Treatment">In Treatment</option>
+                <option value="Treated">Treated</option>
+              </select>
+              @if (patientForm.get('status')?.invalid && (patientForm.get('status')?.dirty || patientForm.get('status')?.touched)) {
+                <div class="error-message">
+                  @if (patientForm.get('status')?.errors?.['required']) {
+                    <span>Status is required</span>
+                  }
+                </div>
+              }
+      
+              <h3> Attributes:</h3>
+              <div class="attributes-table">
+                @for (chunk of attributesChunks; track $index) {
+                  <div class="attribute-column">
+                    @for (attribute of chunk; track attribute.id) {
+                      <label>
+                        <input type="checkbox" [value]="attribute.id" (change)="toggleAttribute(attribute, $event)">
+                        {{ attribute.attributeName }}
+                      </label>
+                    }
+                  </div>
+                }
+              </div>
+              
+              <button type="button" (click)="calculateAndSaveScore()">🔢 Calculate score
+              </button>
+              <p>Final Score {{ totalScore }}</p>
+              
+              <div class="button-group">
+                <button type="submit" class="btn-primary">📎 Add a form</button>
+                <button type="button" class="btn-secondary" (click)="closeSecondPopup()">❌ Close</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      }
+      
+      @if (lastFileId) {
+        <button type="button" class="btn-update" (click)="updatePatientFile(lastFileId, totalScore)">🔄 Update form</button>
+      }
+        
+      
+      @if (showSearchPopup) {
+        <div class="popup-overlay-search">
+          <div class="popup">
+            <h2> Search patient </h2>
+            <form [formGroup]="searchForm" (submit)="searchPatientById()">
+              <label for="identity"> ID number:</label>
+              <input id="identity" type="text" formControlName="identity">
+              @if (searchForm.get('identity')?.invalid && (searchForm.get('identity')?.dirty || searchForm.get('identity')?.touched)) {
+                <div class="error-message">
+                  @if (searchForm.get('identity')?.errors?.['required']) {
+                    <span>ID number is required</span>
+                  }
+                  @if (searchForm.get('identity')?.errors?.['pattern']) {
+                    <span>ID must be 9 digits</span>
+                  }
+                  @if (searchForm.get('identity')?.errors?.['invalidIsraeliId']) {
+                    <span>Invalid Israeli ID</span>
+                  }
+                </div>
+              }
+      
+              <div class="button-group">
+                <button type="submit" class="btn-primary"> Search</button>
+                <button type="button" class="btn-secondary" (click)="closeSearchPopup()">❌ Close</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      }
+      
+      @if (selectedPatient) {
+        <div class="popup-patient-details">
+          <button type="button" class="delete-btn" (click)="confirmDeletePaient(selectedPatient?.patientIdentity)">delete patient 🗑️</button>
+          <button type="button" class="update-btn" (click)="openUpdatePopup(selectedPatient)">עדכן מטופל</button>
+          <h2> Patient Details</h2>
+          <div class="popup-patient-info">
+            <p><strong> ID number:</strong> {{ selectedPatient?.patientIdentity }}</p>
+            <p><strong> Name:</strong> {{ selectedPatient?.name }}</p>
+            <p><strong> Date of birth:</strong> {{ selectedPatient?.dateOfBirth }}</p>
+            <p><strong> Gender:</strong> {{ selectedPatient?.gender }}</p>
+            <p><strong> Address:</strong> {{ selectedPatient?.address }}</p>
+            <p><strong> Phone:</strong> {{ selectedPatient?.phone }}</p>
+            <p><strong> Entry Time:</strong> {{ selectedPatient?.entryTime | date: 'dd/MM/yyyy HH:mm:ss' }}</p>
+          </div>
+      
+          <div class="button-group">
+            <button class="add-patient-btn" (click)="openSecondPopup()" [hidden]="!(isAdmin || isSecretary)">
+               Add Form
+            </button>
+            
+            @if (lastFileId) {
+              <button type="button" class="btn-update" (click)="updatePatientFile(lastFileId, totalScore)">
+                🔄 Update Form
+              </button>
+            }
+          </div>
+          
+          <h3> Existing Forms:</h3>
+          <div class="forms-container">
+            @for (file of patientFiles; track file.fileId) {
+              <div class="form-card">
+                <h4> Status: {{ file?.status }}</h4>
+                <h4> Description:{{ file?.description }}</h4>
+                <h4> Attribute Details:</h4>
+                <ul>
+                  @for (attr of file.attributes; track attr.attributeId) {
+                    <li><strong>{{ attr?.attributeName }}</strong> - Score: {{ attr?.score }}</li>
+                  }
+                </ul>
+              </div>
+            }
+          </div>
+          <button type="button" class="btn-secondary" (click)="closeAddAnotherForm()">❌ Close</button>
+        </div>
+      }
+
+      <!-- הוסף את הקוד הבא לתבנית HTML שלך -->
+
+@if (showUpdatePopup) {
+  <div class="popup-overlay">
+    <div class="popup">
+      <h2>עדכון פרטי מטופל</h2>
+      <form [formGroup]="updatePatientForm" (submit)="updatePatient()">
+        <label for="updatePatientIdentity">מספר זהות:</label>
+        <input id="updatePatientIdentity" type="text" formControlName="patientIdentity">
+        @if (updatePatientForm.get('patientIdentity')?.invalid && (updatePatientForm.get('patientIdentity')?.dirty || updatePatientForm.get('patientIdentity')?.touched)) {
+          <div class="error-message">
+            @if (updatePatientForm.get('patientIdentity')?.errors?.['required']) {
+              <span>מספר זהות הוא שדה חובה</span>
+            }
+            @if (updatePatientForm.get('patientIdentity')?.errors?.['pattern']) {
+              <span>מספר זהות חייב להיות 9 ספרות</span>
+            }
+            @if (updatePatientForm.get('patientIdentity')?.errors?.['invalidIsraeliId']) {
+              <span>מספר זהות ישראלי לא תקין</span>
+            }
+          </div>
+        }
+
+        <label for="updateName">שם:</label>
+        <input id="updateName" type="text" formControlName="name">
+        @if (updatePatientForm.get('name')?.invalid && (updatePatientForm.get('name')?.dirty || updatePatientForm.get('name')?.touched)) {
+          <div class="error-message">
+            @if (updatePatientForm.get('name')?.errors?.['required']) {
+              <span>שם הוא שדה חובה</span>
+            }
+            @if (updatePatientForm.get('name')?.errors?.['minlength']) {
+              <span>שם חייב להיות לפחות 2 תווים</span>
+            }
+            @if (updatePatientForm.get('name')?.errors?.['maxlength']) {
+              <span>שם לא יכול לעבור 50 תווים</span>
+            }
+            @if (updatePatientForm.get('name')?.errors?.['pattern']) {
+              <span>שם יכול להכיל רק אותיות (אנגלית או עברית) ורווחים</span>
+            }
+          </div>
+        }
+        
+        <label for="updateDateOfBirth">תאריך לידה:</label>
+        <input id="updateDateOfBirth" type="date" formControlName="dateOfBirth">
+        @if (updatePatientForm.get('dateOfBirth')?.invalid && (updatePatientForm.get('dateOfBirth')?.dirty || updatePatientForm.get('dateOfBirth')?.touched)) {
+          <div class="error-message">
+            @if (updatePatientForm.get('dateOfBirth')?.errors?.['required']) {
+              <span>תאריך לידה הוא שדה חובה</span>
+            }
+            @if (updatePatientForm.get('dateOfBirth')?.errors?.['futureDate']) {
+              <span>תאריך לידה לא יכול להיות בעתיד</span>
+            }
+            @if (updatePatientForm.get('dateOfBirth')?.errors?.['tooOld']) {
+              <span>גיל המטופל עולה על 120 שנים</span>
+            }
+          </div>
+        }
+
+        <label for="updateGender">מגדר:</label>
+        <select id="updateGender" formControlName="gender">
+          <option value="זכר">זכר</option>
+          <option value="נקבה">נקבה</option>
+        </select>
+        @if (updatePatientForm.get('gender')?.invalid && (updatePatientForm.get('gender')?.dirty || updatePatientForm.get('gender')?.touched)) {
+          <div class="error-message">
+            @if (updatePatientForm.get('gender')?.errors?.['required']) {
+              <span>מגדר הוא שדה חובה</span>
+            }
+          </div>
+        }
+
+        <label for="updateAddress">כתובת:</label>
+        <input id="updateAddress" type="text" formControlName="address">
+        @if (updatePatientForm.get('address')?.invalid && (updatePatientForm.get('address')?.dirty || updatePatientForm.get('address')?.touched)) {
+          <div class="error-message">
+            @if (updatePatientForm.get('address')?.errors?.['required']) {
+              <span>כתובת היא שדה חובה</span>
+            }
+            @if (updatePatientForm.get('address')?.errors?.['minlength']) {
+              <span>כתובת חייבת להיות לפחות 5 תווים</span>
+            }
+            @if (updatePatientForm.get('address')?.errors?.['maxlength']) {
+              <span>כתובת לא יכולה לעבור 100 תווים</span>
+            }
+          </div>
+        }
+
+        <label for="updatePhone">טלפון:</label>
+        <input id="updatePhone" type="text" formControlName="phone">
+        @if (updatePatientForm.get('phone')?.invalid && (updatePatientForm.get('phone')?.dirty || updatePatientForm.get('phone')?.touched)) {
+          <div class="error-message">
+            @if (updatePatientForm.get('phone')?.errors?.['required']) {
+              <span>מספר טלפון הוא שדה חובה</span>
+            }
+            @if (updatePatientForm.get('phone')?.errors?.['pattern']) {
+              <span>מספר טלפון חייב להיות 10 ספרות המתחילות ב-05</span>
+            }
+          </div>
+        }
+
+        <label for="updateEmail">אימייל:</label>
+        <input id="updateEmail" type="email" formControlName="email">
+        @if (updatePatientForm.get('email')?.invalid && (updatePatientForm.get('email')?.dirty || updatePatientForm.get('email')?.touched)) {
+          <div class="error-message">
+            @if (updatePatientForm.get('email')?.errors?.['required']) {
+              <span>אימייל הוא שדה חובה</span>
+            }
+            @if (updatePatientForm.get('email')?.errors?.['email'] || updatePatientForm.get('email')?.errors?.['pattern']) {
+              <span>אנא הזן כתובת אימייל תקינה</span>
+            }
+          </div>
+        }
+        
+        <div class="button-group">
+          <button type="submit" class="btn-primary"> עדכן מטופל</button>
+          <button type="button" class="btn-secondary" (click)="closeUpdatePopup()">❌ סגור</button>
+        </div>
+      </form>
+    </div>
+  </div>
+}

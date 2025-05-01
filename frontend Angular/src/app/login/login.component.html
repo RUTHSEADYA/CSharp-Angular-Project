@@ -1,0 +1,139 @@
+<!-- 
+
+  <div class="login-container">
+    <button class="close-button" (click)="closeDialog()">✕</button>
+    
+    @if (!showRegister) {
+      <mat-card class="login-card">
+        <h1>Login to the System</h1>
+        
+        <form [formGroup]="loginForm" (ngSubmit)="login()">
+          <mat-form-field appearance="fill">
+            <mat-label>Username</mat-label>
+            <input matInput formControlName="username" required>
+          </mat-form-field>
+          
+          <mat-form-field appearance="fill">
+            <mat-label>Password</mat-label>
+            <input matInput type="password" formControlName="password" required>
+          </mat-form-field>
+          
+          <button mat-raised-button color="primary" type="submit" [disabled]="loginForm.invalid">Login</button>
+        </form>
+        
+        @if (errorMessage) {
+          <p class="error-message">{{ errorMessage }}</p>
+        }
+        
+        <p>Don't have an account yet?
+          <a class="link-button" (click)="toggleRegister()">Sign up here</a>
+        </p>
+      </mat-card>
+    }
+    
+    @if (showRegister) {
+      <mat-card class="login-card">
+        <h1>Register to the System</h1>
+        
+        <form [formGroup]="registerForm" (ngSubmit)="register()">
+          <mat-form-field appearance="fill">
+            <mat-label>Username</mat-label>
+            <input matInput formControlName="username" required>
+          </mat-form-field>
+          
+          <mat-form-field appearance="fill">
+            <mat-label>Password</mat-label>
+            <input matInput type="password" formControlName="password" required>
+          </mat-form-field>
+          
+          <mat-form-field appearance="fill">
+            <mat-label>Role</mat-label>
+            <mat-select formControlName="role" required>
+              <mat-option value="1">Secretary</mat-option>
+              <mat-option value="2">Doctor</mat-option>
+              <mat-option value="3">Manager</mat-option>
+            </mat-select>
+          </mat-form-field>
+          
+          <button mat-raised-button color="accent" type="submit" [disabled]="registerForm.invalid">Register</button>
+        </form>
+        
+        @if (registerError) {
+          <p class="error-message">{{ registerError }}</p>
+        }
+        
+        <p>Already have an account?
+          <a class="link-button" (click)="toggleRegister()">Login here</a>
+        </p>
+      </mat-card>
+    }
+  </div>   -->
+
+  <div class="login-container">
+    <button class="close-button" (click)="closeDialog()">✕</button>
+    
+    @if (!showRegister) {
+      <mat-card class="login-card">
+        <h1>Login to the System</h1>
+        
+        <form [formGroup]="loginForm" (ngSubmit)="login()">
+          <mat-form-field appearance="fill">
+            <mat-label>Username</mat-label>
+            <input matInput formControlName="username" required>
+          </mat-form-field>
+          
+          <mat-form-field appearance="fill">
+            <mat-label>Password</mat-label>
+            <input matInput type="password" formControlName="password" required>
+          </mat-form-field>
+          
+          <button mat-raised-button color="primary" type="submit" [disabled]="loginForm.invalid">Login</button>
+        </form>
+        
+        @if (errorMessage) {
+          <p class="error-message">{{ errorMessage }}</p>
+        }
+        
+        <p>Don't have an account yet?
+          <a class="link-button" (click)="toggleRegister()">Sign up here</a>
+        </p>
+      </mat-card>
+    }
+    
+    @if (showRegister) {
+      <mat-card class="login-card">
+        <h1>Register to the System</h1>
+        
+        <form [formGroup]="registerForm" (ngSubmit)="register()">
+          <mat-form-field appearance="fill">
+            <mat-label>Username</mat-label>
+            <input matInput formControlName="username" required>
+          </mat-form-field>
+          
+          <mat-form-field appearance="fill">
+            <mat-label>Password</mat-label>
+            <input matInput type="password" formControlName="password" required>
+          </mat-form-field>
+          
+          <mat-form-field appearance="fill">
+            <mat-label>Role</mat-label>
+            <mat-select formControlName="role" required>
+              <mat-option value="1">Secretary</mat-option>
+              <mat-option value="2">Doctor</mat-option>
+              <mat-option value="3">Manager</mat-option>
+            </mat-select>
+          </mat-form-field>
+          
+          <button mat-raised-button color="accent" type="submit" [disabled]="registerForm.invalid">Register</button>
+        </form>
+        
+        @if (registerError) {
+          <p class="error-message">{{ registerError }}</p>
+        }
+        
+        <p>Already have an account?
+          <a class="link-button" (click)="toggleRegister()">Login here</a>
+        </p>
+      </mat-card>
+    }
+  </div>

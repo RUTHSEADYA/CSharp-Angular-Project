@@ -1,0 +1,34 @@
+<!-- @if (showPopup) {
+    <div class="popup-overlay">
+      <div class="popup">
+        <h2>הוספת מטופל</h2>
+        <form [formGroup]="patientForm" (ngSubmit)="addPatientFile()">
+          
+  
+  
+          <label for="status">status:</label>
+          <select id="status" formControlName="status">
+            <option value="ממתין">זכר</option>
+            <option value="בטיפול">נקבה</option>
+            <option value="טופל">נקבה</option>
+
+          </select>
+  
+  
+          <button type="submit">הוסף טופס</button>
+          <button type="button" (click)="closePopup()">סגור</button>
+        </form>
+  
+        @if (successMessage) {
+          <p class="success">{{ successMessage }}</p>
+        }
+        
+        @if (errorMessage) {
+          <p class="error">{{ errorMessage }}</p>
+        }
+      </div>
+    </div>
+  }
+  
+  <button (click)="openPopup()">הוסף טופס</button>
+   -->

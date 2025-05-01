@@ -1,0 +1,140 @@
+<div class="main-container">
+
+<div class="container">
+  <div class="queue-buttons">
+  <button (click)="openQueueDialog()"[hidden]="!(isAdmin || isDoctor)" class="add-queue-btn"> Manage Queue</button>
+  <button (click)="openAllQueueDialog()"[hidden]="!(isAdmin || isSecretary)" class="add-queue-btn"> View Queue </button>
+  <button (click)="openAllQueueForPatientDialog()"[hidden]="!(isAdmin || isSecretary)" class="add-queue-btn"> View Queue For Patients</button>
+</div>
+</div>
+</div>
+  <!-- <mat-dialog-content> -->
+    <!-- @if (nextPatient) {
+      <div class="card">
+        <h2 class="title">המטופל הבא בתור</h2>
+        <div class="details">
+          <p><strong>🆔 תעודת זהות:</strong> {{ nextPatient.patient.patientIdentity }}</p>
+          <p><strong>👤 שם:</strong> {{ nextPatient.patient.name }}</p>
+          <p><strong>📄 תיאור:</strong> {{ nextPatient.descreption }}</p>
+          <p><strong>⏳ זמן הגעה:</strong> {{ nextPatient.entryTime }}</p>
+          <p> 
+            <strong>⭐ ניקוד דחיפות:</strong> 
+            <span 
+              [class.low]="nextPatient.finalScore < 20"
+              [class.medium]="nextPatient.finalScore >= 20 && nextPatient.finalScore < 40"
+              [class.high]="nextPatient.finalScore >= 40">
+              {{ nextPatient.finalScore }}
+            </span>
+          </p>
+        </div>
+        <div class="buttons">
+          <button (click)="startTreatment(nextPatient.patientId)" class="start-btn">🏥 התחל טיפול</button>
+          <button (click)="endTreatment(nextPatient.patientId)" class="end-btn">✅ סיים טיפול</button>
+        </div>
+      </div>
+    } @else {
+      <p class="no-patient">אין מטופלים בתור</p>
+    }
+  </mat-dialog-content>
+</div> -->
+
+
+
+@if (isDialogOpen) {
+  <div class="dialog-overlay">
+    <div class="dialog-box">
+      <h2 class="dialog-title">The next patient</h2>
+      
+      <!-- TREATMENT STEPPER -->
+      <div class="treatment-stepper">
+        <!-- Progress line that grows as steps are completed -->
+        <div class="progress-line" [style.width]="getProgressWidth()"></div>
+        
+        <!-- Step 1: Receive Patient -->
+        <div class="step-item" [ngClass]="{'active': currentStep >= 1, 'completed': currentStep > 1}">
+          <div class="step-circle">1</div>
+          <div class="step-text">Receive Patient</div>
+        </div>
+        
+        <!-- Step 2: Start Treatment -->
+        <div class="step-item" [ngClass]="{'active': currentStep >= 2, 'completed': currentStep > 2}">
+          <div class="step-circle">2</div>
+          <div class="step-text">Start Treatment</div>
+        </div>
+        
+        <!-- Step 3: Send Summary -->
+        <div class="step-item" [ngClass]="{'active': currentStep >= 3, 'completed': currentStep > 3}">
+          <div class="step-circle">3</div>
+          <div class="step-text">Send Summary</div>
+        </div>
+        
+        <!-- Step 4: End Treatment -->
+        <div class="step-item" [ngClass]="{'active': currentStep >= 4, 'completed': currentStep > 4}">
+          <div class="step-circle">4</div>
+          <div class="step-text">End Treatment</div>
+        </div>
+      </div>
+      <!-- END OF TREATMENT STEPPER -->
+      
+      <mat-dialog-content>
+        @if (nextPatient!==null) {
+          <div class="card">
+            <div class="details">
+              <p><strong>ID number:</strong> {{ nextPatient?.patient.patientIdentity }}</p>
+              <p><strong>Name:</strong> {{ nextPatient?.patient.name }}</p>
+              <p><strong>Description:</strong> {{ nextPatient?.descreption }}</p>
+              <p><strong>Entry time:</strong> {{ nextPatient?.entryTime | date: 'dd/MM/yyyy HH:mm:ss' }}</p>
+              <p> 
+                <strong>Urgency score:</strong> 
+                <span 
+                  [class.low]="nextPatient?.finalScore < 20"
+                  [class.medium]="nextPatient?.finalScore >= 20 && nextPatient?.finalScore < 40"
+                  [class.high]="nextPatient?.finalScore >= 40">
+                  {{ nextPatient?.finalScore }}
+                </span>
+              </p>
+            </div>
+            <div class="buttons">
+              <button (click)="startVoiceRecognition()" class="start-btn"> To get next patient say "next patient"</button>
+              <button (click)="startTreatment(nextPatient?.patientId)" class="start-btn">Start Treatment</button>
+              <button (click)="openTreatmentDialog()" class="end-btn">Send Summary</button>
+              <button (click)="endTreatment(nextPatient?.patientId)" class="end-btn" [disabled]="!nextPatient || nextPatient.Status !== 'In Treatment'">
+                ✅ End Treatment
+              </button>
+            </div>
+          </div>
+        } @else if (isPatientEnded) {
+          <p class="no-patient">There are no patients in line</p>
+        }
+      </mat-dialog-content>
+      
+      <mat-dialog-actions>
+        <button class="close-btn" (click)="isDialogOpen = false">❌ Close</button>
+      </mat-dialog-actions>
+    </div>
+  </div>
+}
+
+<!-- Treatment Summary Dialog -->
+@if (isTreatmentDialogOpen) {
+  <div class="dialog-overlay">
+    <div class="dialog-box">
+      <h2 class="dialog-title">Treatment summary</h2>
+      <mat-dialog-content> 
+        <form [formGroup]="treatmentForm">
+          <label for="diagnosis">Diagnosis:</label>
+          <input id="diagnosis" type="text" formControlName="diagnosis">
+          <label for="procedure">Procedure:</label>
+          <input id="procedure" type="text" formControlName="procedure">
+          <label for="recommendations">Recommendations:</label>
+          <input id="recommendations" type="text" formControlName="recommendations">
+        </form>
+      </mat-dialog-content>
+
+      <mat-dialog-actions>
+        <button (click)="sendSummary(nextPatient.patientId)" class="start-btn">Submit</button>
+        <button class="close-btn" (click)="isTreatmentDialogOpen = false">❌ Close</button>
+      </mat-dialog-actions>
+    </div>
+  </div>
+}

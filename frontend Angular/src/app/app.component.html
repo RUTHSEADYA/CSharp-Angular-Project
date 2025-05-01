@@ -1,0 +1,5 @@
+<app-nav-bar (togglePatients)="handleTogglePatients($event)"></app-nav-bar>
+@if (showPatientButtons) {
+    <app-patient [showButtons]="showPatientButtons"></app-patient>
+  }
+<router-outlet></router-outlet>
